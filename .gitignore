@@ -1,0 +1,13 @@
+venv/
+vits_env/
+__pycache__/
+*.pyc
+*.pyo
+*.mp3
+*.wav
+.env
+*.log
+
+si_LK-sinhala-medium.onnx
+si_LK-sinhala-medium.onnx.json
+jarvis_text.txt

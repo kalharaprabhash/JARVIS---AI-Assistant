@@ -1,0 +1,14 @@
+ASSISTANT_NAME = "JARVIS"
+
+WAKE_WORDS = [
+    "jarvis",
+    "hey jarvis"
+]
+
+VOICE_RATE = 175
+VOICE_VOLUME = 1.0
+
+LANGUAGE = "en-US"
+
+LISTEN_TIMEOUT = 5
+PHRASE_TIME_LIMIT = 8
